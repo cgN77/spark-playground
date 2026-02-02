@@ -1,0 +1,12 @@
+spark-env/
+__pycache__/
+.ipynb_checkpoints/
+*.tgz
+fhvhv/
+fhvhv_tripdata_2025-01.parquet
+fhvhv_tripdata_2025-01.parquet head.parquet
+fhvhv_tripdata_2025-01.parquet head.parquet
+*.parquet
+data/
+*.csv
+*.csv.gz
